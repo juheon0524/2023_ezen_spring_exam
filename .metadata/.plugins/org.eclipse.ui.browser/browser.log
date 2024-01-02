@@ -1,0 +1,47 @@
+
+11월 10, 2023 14:45:29.228 NEW SESSION
+11월 10, 2023 14:45:29.228 [1110/144529.226:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\8d3a9372-f62f-4369-9873-ca733f7bd8a7: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 10, 2023 14:45:29.229 [1110/144529.227:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c65a7bbb-8f79-4555-9259-d35bcf5b7905: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 10, 2023 14:45:29.229 [1110/144529.227:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\8d3a9372-f62f-4369-9873-ca733f7bd8a7: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 10, 2023 14:45:29.233 [1110/144529.227:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c65a7bbb-8f79-4555-9259-d35bcf5b7905: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 10, 2023 14:45:29.511 [11204:9336:1110/144529.511:ERROR:sharing_service.cc(250)] Device un-registration failed with fatal error
+
+11월 13, 2023 15:24:40.618 NEW SESSION
+11월 13, 2023 15:24:40.618 [16000:4668:1113/152440.617:ERROR:device_event_log_impl.cc(192)] [15:24:40.616] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+
+11월 16, 2023 09:31:53.237 NEW SESSION
+11월 16, 2023 09:31:53.237 [5524:6652:1116/093153.236:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 16, 2023 09:32:02.766 [5524:6652:1116/093202.766:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:32:04.767 [5524:6652:1116/093204.767:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 16, 2023 09:32:18.704 [5524:6652:1116/093218.704:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 16, 2023 09:32:56.277 [5524:6652:1116/093256.277:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:39:47.298 [5524:6652:1116/093947.298:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:50:05.365 [5524:6652:1116/095005.365:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:52:52.51 [5524:6652:1116/095252.051:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 16, 2023 09:53:25.209 [5524:6652:1116/095325.208:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 09:53:39.587 [5524:13412:1116/095339.587:ERROR:device_event_log_impl.cc(192)] [09:53:39.586] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+11월 16, 2023 09:53:45.277 [5524:6652:1116/095345.277:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 10:03:51.343 [5524:6652:1116/100351.343:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 10:13:57.411 [5524:6652:1116/101357.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 10:21:43.49 [5524:6652:1116/102143.049:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 16, 2023 10:22:34.209 [5524:6652:1116/102234.208:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 10:22:54.278 [5524:6652:1116/102254.278:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 16, 2023 10:24:42.628 [5524:6652:1116/102442.628:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 16, 2023 10:25:19.705 [5524:6652:1116/102519.705:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+11월 16, 2023 12:03:01.428 [5524:13412:1116/120301.428:ERROR:device_event_log_impl.cc(192)] [12:03:01.428] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+11월 20, 2023 11:05:09.93 NEW SESSION
+11월 20, 2023 11:05:09.93 [10296:1080:1120/110509.092:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+11월 20, 2023 17:33:28.403 [10296:1080:1120/173328.402:ERROR:device_event_log_impl.cc(192)] [17:33:28.402] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+12월 07, 2023 09:39:06.867 NEW SESSION
+12월 07, 2023 09:39:06.867 [12728:6532:1207/093906.866:ERROR:device_event_log_impl.cc(192)] [09:39:06.866] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+12월 07, 2023 09:48:04.454 [1207/094804.452:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\8d3a9372-f62f-4369-9873-ca733f7bd8a7: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 07, 2023 09:48:04.454 [1207/094804.452:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c65a7bbb-8f79-4555-9259-d35bcf5b7905: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 07, 2023 09:48:04.454 [1207/094804.452:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\51e83ced-64a6-4506-a2b6-3fce255b9701: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 07, 2023 09:48:04.454 [1207/094804.452:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\8d3a9372-f62f-4369-9873-ca733f7bd8a7: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 07, 2023 09:48:04.454 [1207/094804.452:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c65a7bbb-8f79-4555-9259-d35bcf5b7905: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 07, 2023 09:48:04.454 [1207/094804.453:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\M22\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\51e83ced-64a6-4506-a2b6-3fce255b9701: 지정된 파일을 찾을 수 없습니다. (0x2)
+12월 07, 2023 09:48:04.519 [12728:6532:1207/094804.519:ERROR:sharing_service.cc(250)] Device un-registration failed with fatal error
+12월 07, 2023 10:25:38.849 [12728:6532:1207/102538.849:ERROR:device_event_log_impl.cc(192)] [10:25:38.850] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+12월 07, 2023 12:52:46.842 [12728:6532:1207/125246.842:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- <bean id="tv" class="com.ezen.polymorphsim.SamsungTV" init-method="initMethod"
+	destroy-method="destroyMethod" lazy-init="true" scope="prototype">
+	</bean> -->
+	<bean id="tv" class="com.ezen.polymorphsim.SamsungTV">
+		<property name="spearker" ref="sony"></property>
+		<property name="price" value="39000"></property>
+	</bean>
+	
+	<bean id="tv2" class="com.ezen.polymorphsim.LgTV"></bean>
+	
+	<bean id="sony" class="com.ezen.polymorphsim.SonySpearker">
+	</bean>
+	
+	<bean id="apple" class="com.ezen.polymorphsim.AppleSpearker"></bean>
+</beans>
